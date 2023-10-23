@@ -1,0 +1,12 @@
+Um cinema deseja saber a opinião dos espectadores sobre o filme que está
+sendo exibido. Cada espectador, respondeu a um questionário, contendo sua
+idade e sua opinião sobre o filme: (1)ótimo, (2)bom, (3)regular, (4)ruim,
+(5)péssimo. Elaborar um algoritmo que, lendo estes dados, calcule e
+escreva:
+- a quantidade de respostas Ótimo,
+- a diferença de votos entre respostas Bom e Regular,
+- a média de idade das pessoas que responderam ruim,
+- a percentagem de respostas Péssimo
+Obs:
+1) A quantidade de entrevistados é desconhecida. Será informada a idade 999 para
+encerrar a entrada de dados;

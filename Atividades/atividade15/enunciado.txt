@@ -1,0 +1,14 @@
+A Unifebe pretende fazer um estudo ergonômico do seu mobiliário. Para
+tanto, alguns alunos foram ouvidos e para um deles perguntou-se:
+- o número de matrícula;
+- a idade;
+- o sexo (1=F 2=M);
+- a altura;
+- o peso.
+Escreva um algoritmo que leia estas informações e diga:
+- qual a altura média das mulheres;
+- qual o peso médio dos homens;
+- qual a idade média dos estudantes (todos);
+- qual o número de matrícula do estudante mais alto/a;
+Será informada a matrícula 000 como sentinela/flag para indicar o fim da
+entrada de dados.
