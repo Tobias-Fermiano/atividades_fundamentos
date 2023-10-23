@@ -1,0 +1,15 @@
+O Bruscão pretende fazer um estudo do perfil dos seus torcedores.
+Para tanto foi realizada uma pesquisa no estádio na qual perguntou-se a 3 torcedores:
+a) a origem (1=Brusque   2=Outras Cidades)
+b) a idade.
+
+I) Escreva um algoritmo que leia estas informações e diga:
+1) qual o percentual de torcedores são de Brusque;
+2) qual a idade média dos torcedores de outras cidades.
+
+II) Fazer o teste de mesa para a seguinte entrada de dados:
+1  20
+2  25
+1  28
+
+OBS.: Sabe-se que foram ouvidos torcedores de Brusque e de outras cidades. 

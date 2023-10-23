@@ -1,0 +1,11 @@
+A UNIFEBE pretende fazer um estudo sobre a frota de veículos dos alunos. 
+Para tanto, 3 alunos forma ouvidos, e para cada um deles anotou-se:
+a) a marca do veículo (1=VW  2=Fiat  3=outros);
+b) o sexo do motorista (1=Feminino  2=Masculino);
+c) a idade do motorista;
+
+Escreva um algoritmo que leia estas informações e diga:
+1) qual a idade média das mulheres;
+2) quantos homens possuem carro da marca VW;
+
+OBS. Sabe-se que homens e mulheres foram ouvidos.  

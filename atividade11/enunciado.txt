@@ -1,0 +1,9 @@
+Escreva um algoritmo que leia 20 números inteiros e diga, para cada número
+digitado:
+- o fatorial;
+- se par ou ímpar;
+
+Ao final da entrada de dados, diga:
+- qual foi o maior número informado;
+- qual foi o menor número informado;
+- quantas vezes o número 22 foi informado.

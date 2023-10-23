@@ -1,0 +1,5 @@
+Escreva um algoritmo que leia sucessivamente números inteiros até o que o 
+número 99 seja informado. Ao final da digitação diga:
+- qual a média aritmética dos números informados (não incluir o 99 no cálculo);
+- qual foi o maior número informado (não considerar o 99);
+- quantos dos números informados eram múltiplos de 5.

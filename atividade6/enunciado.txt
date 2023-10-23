@@ -1,0 +1,7 @@
+A Prefeitura de Brusque pretende fazer um estudo sobre a ocupação dos ônibus do transporte coletivo.
+Para tanto 20 viagens foram acompanhadas e para cada uma delas anotou-se:
+a) o número inicial da catraca;
+b) o número final da catraca;
+
+Escreva um algoritmo que leia estas informações e diga:
+1) Quantos passageiros, em média, são transportados a cada viagem. 

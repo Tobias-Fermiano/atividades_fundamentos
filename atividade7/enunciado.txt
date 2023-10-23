@@ -1,0 +1,4 @@
+ESCREVA UM ALGORITMO QUE EXAMINE OS NÚMEROS INTEIROS NO SEGUINTE INTERVALO: 
+[237..14835] E DIGA:
+- quantos números do intervalo são múltiplos de 3;
+- e destes, quantos são também múltiplos de 7.

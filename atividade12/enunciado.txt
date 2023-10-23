@@ -1,0 +1,9 @@
+Escreva um algoritmo que leia sucessivamente números inteiros,
+até que um número maior que 20 seja informado. Para cada número
+digitado, informe:
+- se ele é primo/não primo;
+- se ele é par ou ímpar.
+
+Ao final, diga:
+- qual a média aritmética dos números informados (desconsidere o último número digitado);
+- qual foi o maior número informado.

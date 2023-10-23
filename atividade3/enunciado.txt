@@ -1,0 +1,15 @@
+ATIVIDADE - REPETIÇÃO
+
+A UNIFEBE pretende fazer um estudo ergonômico do seu mobiliário. 
+Para tanto 20 alunos foram entrrevistados e para cada um deles perguntou-se:
+a) a altura
+b) o peso
+c) o sexo (sendo 1 = Feminino e 2 = Masculino)
+d) a idade.
+
+Escreva um algoritmo que leia estas informações e diga:
+1) qual a altura média das mulheres;
+2) qual o peso médio dos homens;
+3) qual a idade média dos entrevistados.
+
+OBS.: Sabe-se que homens e mulheres foram ouvidos.

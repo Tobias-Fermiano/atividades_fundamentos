@@ -1,0 +1,4 @@
+O Professor de uma turma pretende fazer um estudo sobre a idade
+média dos seus alunos. Para tanto, três deles foram ouvidos e para
+cada um deles perguntou-se a idade. Escreva um algoritmo que leia
+estas informações e diga qual a idade média dos alunos.

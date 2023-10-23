@@ -1,0 +1,10 @@
+Crie um programa em Java com as seguintes funcionalidades:
+
+- O usuário tem de enviar o ano de fabricação de 3 carros.
+- Calcule a idade de cada carro informado.
+- Calcule a média de idade entre os 3 carros. 
+- Informe ao usuário.
+
+* Bônus: ao invés de usar a biblioteca JOptionPane, faça
+a entrada de dados usando a biblioteca Scanner. Ela pode
+ser importada como: "import java.util.Scanner;"
