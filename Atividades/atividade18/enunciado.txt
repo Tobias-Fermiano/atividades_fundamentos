@@ -1,0 +1,4 @@
+Escreva um algoritmo que leia o número e a área de 20 salas de aula
+da Unifebe e:
+a) diga qual a área média das salas da Unifebe;
+b) mostre o número daquelas salas que são maiores do que a média.

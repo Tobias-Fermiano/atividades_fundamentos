@@ -1,0 +1,4 @@
+Escreva um algoritmo que leia a idade dos 20 alunos da 
+turma de Fundamentos de Programação e diga:
+a) qual a idade média dos alunos;
+b) quantos dos alunos tem idade inferior a média da turma

@@ -1,0 +1,7 @@
+Escreva um programa que leia 8 números inteiros informados pelo usuário e para cada um deles diga:
+-  o seu fatorial;
+-  se ele é par/ímpar;
+
+Antes de encerrar diga:
+- qual a média aritmética dos números informados;
+- qual foi o maior número informado;
