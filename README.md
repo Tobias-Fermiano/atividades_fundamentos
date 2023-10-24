@@ -17,3 +17,6 @@ Anotações, códigos, exemplos, entre outros das aulas de Fundamentos de Progra
 - [Atividade 13](./Atividades/atividade13/)
 - [Atividade 14](./Atividades/atividade14/)
 - [Atividade 15](./Atividades/atividade15/)
+- [Atividade 16](./Atividades/atividade16/)
+- [Atividade 17](./Atividades/atividade17/)
+- [Atividade 18](./Atividades/atividade18/)
