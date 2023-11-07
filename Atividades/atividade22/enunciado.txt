@@ -1,0 +1,12 @@
+A Unifebe pretende fazer um estudo ergométrico do seu mobiliário. Para tanto,
+foram entrevistados 10 alunos e para cada um deles perguntou-se:
+- o número de matrícula;
+- a altura;
+- o peso;
+- a idade;
+- o sexo (1=F   2=M).
+
+Escreva um programa em Java que leia estas informações e diga:
+- qual a altura média das mulheres;
+- qual o peso médio dos homens;
+- a matrícula dos entrevistados que são mais velho que a média.

@@ -1,0 +1,11 @@
+Escreva um programa que leia 25 números inteiros informados pelo usuário. Para
+cada número informado diga:
+a) Se ele é par/ímpar
+b) Se ele é primo/não primo
+c) Se ele é múltiplo de 5.
+Antes de encerrar diga:
+a) Qual a média aritmética dos números informados;
+b) Qual o maior número informado;
+c) Qual o fatorial do menor múltiplo de 5 informado;
+d) Mostre os números informados que são maiores que a média (calculada no item
+b)).

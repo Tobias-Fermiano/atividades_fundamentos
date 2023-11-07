@@ -1,0 +1,9 @@
+A Prefeitura de Brusque pretende fazer um estudo sobre o transporte coletivo.
+Para tanto, 10 viagens de ônibus foram acompanhadas e para cada delas anotou-se:
+- o número do ônibus;
+- o número incial da catraca;
+- o número final da catraca.
+
+Escreva um programa em Java que leia estas informações e diga:
+- o número do ônibus e a lotação daquele que circulou mais lotado;
+- os números dos ônibus que circularam com lotação abaixo da média.

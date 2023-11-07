@@ -1,0 +1,10 @@
+Uma empresa de ônibus pretende fazer uma avaliação da ocupação de seus ônibus.
+Cinco deles foram avaliados e para cada um anotou-se:
+a) O número do ônibus;
+b) O número inicial da catraca (antes de começar a viagem;
+c) O número final da catraca.
+Faça um programa que leia estas informações e diga:
+a) Quantas pessoas são transportadas em média pela empresa a cada viagem;
+b) Qual o número do ônibus que andou mais lotado e quantas pessoas transportou;
+c) Para aquelas viagens realizadas com lotação superior a média, mostre o número do
+ônibus e a quantidade de pessoas transportadas.
