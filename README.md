@@ -20,3 +20,8 @@ Anotações, códigos, exemplos, entre outros das aulas de Fundamentos de Progra
 - [Atividade 16](./Atividades/atividade16/)
 - [Atividade 17](./Atividades/atividade17/)
 - [Atividade 18](./Atividades/atividade18/)
+- [Atividade 19](./Atividades/atividade19/)
+- [Atividade 20](./Atividades/atividade20/)
+- [Atividade 21](./Atividades/atividade21/)
+- [Atividade 22](./Atividades/atividade22/)
+- [Atividade 23](./Atividades/atividade23/)
